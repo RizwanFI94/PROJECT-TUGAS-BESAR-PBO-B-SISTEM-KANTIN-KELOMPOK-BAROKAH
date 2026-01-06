@@ -32,7 +32,7 @@ Menampilkan form login untuk user dan admin.
 
 ### 2. Halaman Registrasi
 Form pendaftaran akun pengguna.
-![Halaman Registrasi](URL_GAMBAR)
+![Halaman Registrasi]([URL_GAMBAR](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/HalamanLogin.jpg))
 
 ---
 
