@@ -98,7 +98,7 @@ Aplikasi memiliki dua role utama:
 ###  Cetak Struk ke PDF
 - Struk pembelian dapat dicetak dan disimpan dalam format PDF.
 
-### Daftar Data Transaksi
+### Melihat Daftar Data Transaksi
 - Admin dapat melihat seluruh data transaksi yang terjadi.
 - Data transaksi tersimpan sebagai arsip sistem.
 
