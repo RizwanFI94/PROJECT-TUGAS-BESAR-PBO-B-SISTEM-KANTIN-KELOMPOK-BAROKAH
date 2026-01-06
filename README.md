@@ -24,19 +24,19 @@ Wireframe digunakan sebagai gambaran awal rancangan antarmuka dan alur sistem se
 
 ### Wireframe yang dibuat meliputi:
 - Halaman Login
-- ![HalamanLogin](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/HalamanLogin.jpg)
+ ![HalamanLogin](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/HalamanLogin.jpg)
 - Halaman Registrasi
-- ![Desktop]()
+ ![Desktop]()
 - Dashboard Admin
-- ![Desktop]()
+ ![Desktop]()
 - Halaman CRUD Barang
-- ![Desktop]()
+ ![Desktop]()
 - Halaman Produk User
-- ![Desktop]()
+ ![Desktop]()
 - Halaman Keranjang
-- ![Desktop]()
+  ![Desktop]()
 - Pop Up Struk Pembelian
-- ![Desktop]()
+ ![Desktop]()
 
 ---
 
