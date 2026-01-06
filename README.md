@@ -65,7 +65,10 @@ Menampilkan daftar barang yang akan dibeli.
 Menampilkan detail struk setelah transaksi.
 ![Struk Pembelian](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/HalamanTransaksi.jpg)
 
----
+### 8. Pop Up Struk Pembelian Halaman Admin 
+Menampilkan sejarah detail struk setelah pembeli melakukan transaksi yang hanya bisa di akses oleh Admin
+![Daftar_Transaksi] (https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/DaftarTransaksi.jpg)
+
 
 ##  Mockup
 Mockup merupakan visualisasi tampilan aplikasi yang lebih detail dan mendekati tampilan akhir sistem.
