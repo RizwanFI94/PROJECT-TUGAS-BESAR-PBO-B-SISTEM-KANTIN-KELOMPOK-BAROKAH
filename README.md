@@ -70,17 +70,36 @@ Menampilkan detail struk setelah transaksi.
 ##  Mockup
 Mockup merupakan visualisasi tampilan aplikasi yang lebih detail dan mendekati tampilan akhir sistem.
 
-### Mockup aplikasi meliputi:
-- Tampilan Halaman Login
-![Desktop](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/HalamanLogin.jpg)
-- Tampilan Halaman Registrasi
-![Desktop]()
-- Tampilan Dashboard Admin
- ![Desktop]()
-- Tampilan Halaman Produk User
- ![Desktop]()
-- Tampilan Struk Pembelian
-![Desktop]()
+## Mockup Aplikasi
+
+### 1. Tampilan Halaman Login
+Menampilkan form untuk pengguna melakukan login.
+![Halaman Login](URL_GAMBAR_LOGIN)
+
+---
+
+### 2. Tampilan Halaman Registrasi
+Digunakan untuk pendaftaran akun pengguna baru.
+![Halaman Registrasi](URL_GAMBAR_REGISTRASI)
+
+---
+
+### 3. Tampilan Dashboard Admin
+Halaman pusat kontrol admin untuk mengelola sistem.
+![Dashboard Admin](URL_GAMBAR_DASHBOARD_ADMIN)
+
+---
+
+### 4. Tampilan Halaman Produk User
+Menampilkan daftar produk yang dapat dibeli oleh pengguna.
+![Produk User](URL_GAMBAR_PRODUK)
+
+---
+
+### 5. Tampilan Struk Pembelian
+Menampilkan detail transaksi setelah proses pembelian.
+![Struk Pembelian](URL_GAMBAR_STRUK)
+
 ---
 
 ##  Fitur Aplikasi
