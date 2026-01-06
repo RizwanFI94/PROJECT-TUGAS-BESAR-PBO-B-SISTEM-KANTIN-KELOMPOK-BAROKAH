@@ -98,6 +98,7 @@ Menampilkan daftar produk yang dapat dibeli oleh pengguna.
 
 ### 5. Tampilan Struk Pembelian
 Menampilkan detail transaksi setelah proses pembelian.
+
 ![Struk Pembelian](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/CetakStruk.jpg)
 
 ---
