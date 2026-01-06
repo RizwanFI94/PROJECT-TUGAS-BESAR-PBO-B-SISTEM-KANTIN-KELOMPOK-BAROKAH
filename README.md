@@ -28,8 +28,6 @@ Wireframe digunakan sebagai gambaran awal rancangan antarmuka dan alur sistem se
 Menampilkan form login untuk user dan admin.
 ![Halaman Login](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/HalamanLogin.jpg)
 
-
-
 ---
 
 ### 2. Halaman Registrasi
@@ -53,6 +51,7 @@ Digunakan untuk tambah, edit, hapus, dan lihat barang.
 
 ### 5. Halaman Produk User
 Menampilkan daftar produk untuk user.
+
 ![Produk User](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/HalamanProdukUser.jpg)
 
 ---
