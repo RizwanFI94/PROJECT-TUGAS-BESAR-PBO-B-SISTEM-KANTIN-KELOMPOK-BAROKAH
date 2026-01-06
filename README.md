@@ -24,12 +24,19 @@ Wireframe digunakan sebagai gambaran awal rancangan antarmuka dan alur sistem se
 
 ### Wireframe yang dibuat meliputi:
 - Halaman Login
+- ![Desktop]()
 - Halaman Registrasi
+- ![Desktop]()
 - Dashboard Admin
+- ![Desktop]()
 - Halaman CRUD Barang
+- ![Desktop]()
 - Halaman Produk User
+- ![Desktop]()
 - Halaman Keranjang
+- ![Desktop]()
 - Pop Up Struk Pembelian
+- ![Desktop]()
 
 ---
 
@@ -38,11 +45,15 @@ Mockup merupakan visualisasi tampilan aplikasi yang lebih detail dan mendekati t
 
 ### Mockup aplikasi meliputi:
 - Tampilan Halaman Login
+![Desktop]()
 - Tampilan Halaman Registrasi
+![Desktop]()
 - Tampilan Dashboard Admin
+ ![Desktop]()
 - Tampilan Halaman Produk User
+ ![Desktop]()
 - Tampilan Struk Pembelian
-
+![Desktop]()
 ---
 
 ##  Fitur Aplikasi
