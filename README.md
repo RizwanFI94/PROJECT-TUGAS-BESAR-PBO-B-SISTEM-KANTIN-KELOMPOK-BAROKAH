@@ -63,8 +63,7 @@ Menampilkan daftar barang yang akan dibeli.
 
 ### 7. Pop Up Struk Pembelian
 Menampilkan detail struk setelah transaksi.
-![Struk Pembelian](URL_GAMBAR)
-
+![Struk Pembelian](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/HalamanTransaksi.jpg)
 
 ---
 
