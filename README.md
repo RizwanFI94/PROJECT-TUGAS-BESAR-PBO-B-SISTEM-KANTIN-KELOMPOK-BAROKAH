@@ -44,7 +44,7 @@ Halaman utama admin untuk mengelola sistem.
 
 ### 4. Halaman CRUD Barang
 Digunakan untuk tambah, edit, hapus, dan lihat barang.
-![CRUD Barang](URL_GAMBAR)
+![CRUD Barang](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/MenuEdit%26TambahBarang.png)
 
 ---
 
