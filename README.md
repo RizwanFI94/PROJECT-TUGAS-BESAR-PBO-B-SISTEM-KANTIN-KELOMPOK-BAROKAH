@@ -26,7 +26,7 @@ Wireframe digunakan sebagai gambaran awal rancangan antarmuka dan alur sistem se
 
 ### 1. Halaman Login
 Menampilkan form login untuk user dan admin.
-![Halaman Login](URL_GAMBAR)
+![Halaman Login](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Wireframe/HalamanLogin.jpg)
 
 ---
 
