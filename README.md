@@ -86,19 +86,19 @@ Digunakan untuk pendaftaran akun pengguna baru.
 
 ### 3. Tampilan Dashboard Admin
 Halaman pusat kontrol admin untuk mengelola sistem.
-![Dashboard Admin](URL_GAMBAR_DASHBOARD_ADMIN)
+![Dashboard Admin](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/CRUDAdmin.jpg)
 
 ---
 
 ### 4. Tampilan Halaman Produk User
 Menampilkan daftar produk yang dapat dibeli oleh pengguna.
-![Produk User](URL_GAMBAR_PRODUK)
+![Produk User](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/HalamanProdukUser.jpg)
 
 ---
 
 ### 5. Tampilan Struk Pembelian
 Menampilkan detail transaksi setelah proses pembelian.
-![Struk Pembelian](URL_GAMBAR_STRUK)
+![Struk Pembelian](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/CetakStruk.jpg)
 
 ---
 
