@@ -22,21 +22,48 @@ Aplikasi ini bertujuan untuk membantu proses pengelolaan kantin, mulai dari mana
 ##  Wireframe
 Wireframe digunakan sebagai gambaran awal rancangan antarmuka dan alur sistem sebelum tahap implementasi.
 
-### Wireframe yang dibuat meliputi:
-- Halaman Login
- ![HalamanLogin]()
-- Halaman Registrasi
- ![Desktop]()
-- Dashboard Admin
- ![Desktop]()
-- Halaman CRUD Barang
- ![Desktop]()
-- Halaman Produk User
- ![Desktop]()
-- Halaman Keranjang
-  ![Desktop]()
-- Pop Up Struk Pembelian
- ![Desktop]()
+## Wireframe yang dibuat meliputi:
+
+### 1. Halaman Login
+Menampilkan form login untuk user dan admin.
+![Halaman Login](URL_GAMBAR)
+
+---
+
+### 2. Halaman Registrasi
+Form pendaftaran akun pengguna.
+![Halaman Registrasi](URL_GAMBAR)
+
+---
+
+### 3. Dashboard Admin
+Halaman utama admin untuk mengelola sistem.
+![Dashboard Admin](URL_GAMBAR)
+
+---
+
+### 4. Halaman CRUD Barang
+Digunakan untuk tambah, edit, hapus, dan lihat barang.
+![CRUD Barang](URL_GAMBAR)
+
+---
+
+### 5. Halaman Produk User
+Menampilkan daftar produk untuk user.
+![Produk User](URL_GAMBAR)
+
+---
+
+### 6. Halaman Keranjang
+Menampilkan daftar barang yang akan dibeli.
+![Keranjang](URL_GAMBAR)
+
+---
+
+### 7. Pop Up Struk Pembelian
+Menampilkan detail struk setelah transaksi.
+![Struk Pembelian](URL_GAMBAR)
+
 
 ---
 
