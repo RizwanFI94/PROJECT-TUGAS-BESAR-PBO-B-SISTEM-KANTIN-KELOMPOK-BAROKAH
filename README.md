@@ -80,7 +80,7 @@ Mockup merupakan visualisasi tampilan aplikasi yang lebih detail dan mendekati t
 
 ### 2. Tampilan Halaman Registrasi
 Digunakan untuk pendaftaran akun pengguna baru.
-![Halaman Registrasi](URL_GAMBAR_REGISTRASI)
+![Halaman Registrasi](https://github.com/RizwanFI94/PROJECT-TUGAS-BESAR-PBO-B-SISTEM-KANTIN-KELOMPOK-BAROKAH/blob/c41233cfbe3fc8065281ecd1d6685812e53ace0f/Mockup/Registrasi.jpg)
 
 ---
 
